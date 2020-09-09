@@ -1,6 +1,6 @@
 # Hi there 👋. I'm Nathan!
 
-# I'm currently learning React and looking to continue working with it!
+# I'm currently learning React and am a student at Flatiron!
 
 
 <!--
