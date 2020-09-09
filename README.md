@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there 👋. I'm Nathan.
+
+#### I'm currently learning React and looking to continue working with it!
+
 
 <!--
 **hellonathanchung/hellonathanchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
