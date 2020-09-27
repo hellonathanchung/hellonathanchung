@@ -1,4 +1,6 @@
-# Hi there 👋. I'm Nathan!
+# Hi there! 👋
+
+I'm Nathan!
 
 # I'm a fullstack software engineer! 
 ### I know Javascript, Ruby, HTML, and CSS. 
