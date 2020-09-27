@@ -4,7 +4,7 @@ I'm Nathan!
 
 I'm a fullstack software engineer! 
 I know Javascript, Ruby, HTML, and CSS. 
-I'm currently working on a [QPQ](https://github.com/bdb2381/mod4-frontend), an application to allow service-for-service trading..
+I'm currently working on [QPQ](https://github.com/bdb2381/mod4-frontend), an application to allow service-for-service trading..
 Aspiring to learn more about React and Python.
 
 Fun fact: I'm a freelancer with extensive experience in Adobe. I've done work for weddings, local businesses, and much more!
