@@ -2,10 +2,12 @@
 
 I'm Nathan!
 
-# I'm a fullstack software engineer! 
-### I know Javascript, Ruby, HTML, and CSS. 
-### I'm currently working on a [https://github.com/bdb2381/mod4-frontend](QPQ).
-### Aspiring to learn more about React and Python.
+I'm a fullstack software engineer! 
+I know Javascript, Ruby, HTML, and CSS. 
+I'm currently working on a [https://github.com/bdb2381/mod4-frontend](QPQ).
+Aspiring to learn more about React and Python.
+
+Fun fact: I'm a freelancer with extensive experience in Adobe. I've done work for weddings, local businesses, and much more!
 
 <!--
 **hellonathanchung/hellonathanchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
