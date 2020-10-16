@@ -6,7 +6,7 @@ I'm a fullstack software engineer!
 
 I know Javascript, Ruby, HTML, and CSS. 
 
-I'm currently working on [QPQ](https://github.com/bdb2381/mod4-frontend), an application to allow service-for-service trading.
+I'm currently working on [HerscMersch](https://github.com/hellonathanchung/herschmersch-frontend), an application that allows users to save and follow stocks.
 
 
 Aspiring to learn more about React and Python.
