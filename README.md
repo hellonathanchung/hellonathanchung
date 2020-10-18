@@ -2,14 +2,11 @@
 
 I'm Nathan!
 
-I'm a fullstack software engineer! 
+I'm a fullstack software engineer in Seattle! 
 
-I know Javascript, Ruby, HTML, and CSS. 
+I'm currently working on [HerscMersch](https://github.com/hellonathanchung/herschmersch-frontend), an application that allows users to maintain a portfolio of stocks and track their latest news.
 
-I'm currently working on [HerscMersch](https://github.com/hellonathanchung/herschmersch-frontend), an application that allows users to save and follow stocks.
-
-
-Aspiring to learn more about React and Python.
+I love creating web applications and an passionate about learning.
 
 Fun fact: I'm a freelancer with extensive experience in Adobe. I've done work for weddings, local businesses, and much more!
 
