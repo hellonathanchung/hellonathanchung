@@ -4,7 +4,7 @@ I'm Nathan!
 
 I'm a fullstack software engineer in Seattle! 
 
-I'm currently working on [HerschMersch](https://github.com/hellonathanchung/herschmersch-frontend), an application that allows users to maintain a portfolio of stocks and track their latest news.
+I'm currently learning Angular and TypeScript.
 
 I love creating web applications and an passionate about learning.
 
