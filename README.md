@@ -4,8 +4,6 @@ I'm Nathan!
 
 I'm a fullstack software engineer in Seattle! 
 
-I'm currently learning Angular and TypeScript.
-
 I love creating web applications and an passionate about learning.
 
 Fun fact: I'm a freelancer with extensive experience in Adobe. I've done work for weddings, local businesses, and much more!
